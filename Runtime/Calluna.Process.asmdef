@@ -1,12 +1,8 @@
 {
-    "name": "Calluna.Template.Tests",
-    "rootNamespace": "Calluna.Template.Tests",
-    "references": [
-        "GUID:6e11b6063e739f6468948dab11caf494"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "name": "Calluna.Process",
+    "rootNamespace": "Calluna.Process",
+    "references": ["GUID:a4e2fcc097ca52d46a2cc62ef3c5e9bf","GUID:fb92ad7c22f767448a052126eb8fa706"],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
