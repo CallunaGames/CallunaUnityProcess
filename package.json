@@ -1,18 +1,19 @@
 {
   "name": "com.calluna.process",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "displayName": "Calluna Unity Process",
-  "description": "",
-  "unity": "6000.58",
+  "description": "General process logic for Unity",
+  "unity": "6000.33",
   "unityRelease": "",
   "documentationUrl": "https://github.com/CallunaGames/CallunaUnityProcess",
-  "changelogUrl": "",
+  "changelogUrl": "https://github.com/CallunaGames/CallunaUnityProcess/commits/v1.0.0",
   "licensesUrl": "",
   "dependencies": {
-    
+    "com.calluna.core": "https://github.com/CallunaGames/CallunaUnityCore.git#v1.0.0",
+    "com.calluna.di": "https://github.com/CallunaGames/CallunaUnityDI.git#v1.0.0"
  },
  "keywords": [
-    
+    "process"
   ],
   "author": {
     "name": "Calluna Games",
