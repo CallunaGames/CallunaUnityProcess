@@ -9,10 +9,17 @@
   "changelogUrl": "https://github.com/CallunaGames/CallunaUnityProcess/commits/v1.0.0",
   "licensesUrl": "",
   "dependencies": {
-    "com.calluna.core": "https://github.com/CallunaGames/CallunaUnityCore.git#v1.0.0",
-    "com.calluna.di": "https://github.com/CallunaGames/CallunaUnityDI.git#v1.0.0"
- },
- "keywords": [
+    "com.calluna.core": "1.0.3",
+    "com.calluna.di": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Timer Process",
+      "description": "A showcase of the process functionality using a simple timer",
+      "path": "Samples~/TimerProcess"
+    }
+  ],
+  "keywords": [
     "process"
   ],
   "author": {
